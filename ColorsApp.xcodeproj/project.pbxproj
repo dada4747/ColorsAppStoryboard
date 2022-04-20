@@ -14,6 +14,7 @@
 		84BD6BA6280FF8E100175C00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BD6BA4280FF8E100175C00 /* LaunchScreen.storyboard */; };
 		84BD6BAE280FF98B00175C00 /* ColorsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BD6BAD280FF98B00175C00 /* ColorsTableVC.swift */; };
 		84BD6BB0280FFC8900175C00 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BD6BAF280FFC8900175C00 /* DetailsVC.swift */; };
+		84BD6BB2281010C300175C00 /* RandomColor_ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BD6BB1281010C300175C00 /* RandomColor_ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84BD6BA7280FF8E100175C00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84BD6BAD280FF98B00175C00 /* ColorsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableVC.swift; sourceTree = "<group>"; };
 		84BD6BAF280FFC8900175C00 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		84BD6BB1281010C300175C00 /* RandomColor_ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomColor_ext.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				84BD6BA2280FF8E100175C00 /* Assets.xcassets */,
 				84BD6BA4280FF8E100175C00 /* LaunchScreen.storyboard */,
 				84BD6BA7280FF8E100175C00 /* Info.plist */,
+				84BD6BB1281010C300175C00 /* RandomColor_ext.swift */,
 			);
 			path = ColorsApp;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84BD6BAE280FF98B00175C00 /* ColorsTableVC.swift in Sources */,
+				84BD6BB2281010C300175C00 /* RandomColor_ext.swift in Sources */,
 				84BD6BB0280FFC8900175C00 /* DetailsVC.swift in Sources */,
 				84BD6B9A280FF8DE00175C00 /* AppDelegate.swift in Sources */,
 				84BD6B9C280FF8DE00175C00 /* SceneDelegate.swift in Sources */,
